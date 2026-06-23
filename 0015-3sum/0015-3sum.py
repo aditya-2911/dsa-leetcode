@@ -6,13 +6,13 @@ class Solution:
 
         for i in range(0, size - 2):
 
-            if nums[0] > 0:
+            if nums[i] > 0:
                 break
 
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
-            target = -1 * nums[i]
+            target = -nums[i]
             leftPtr, rightPtr = i + 1, size - 1
             while leftPtr < rightPtr:
                 currentSum = nums[leftPtr] + nums[rightPtr]
