@@ -3,20 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        def partition(low, high):
-            pivot = nums[high]
-            i = low - 1
-            for j in range(low, high):
-                if nums[j] < pivot:
-                    i += 1
-                    nums[i], nums[j] = nums[j], nums[i]
-            nums[i + 1], nums[high] = nums[high], nums[i + 1]
-            return i + 1
+        zero, one, two=0,0,0
+
+        for num in nums:
+            if num==0: zero+=1
+            elif num==1: one+=1
+            else: two+=1
         
-        def sort(low, high):
-            if low < high:
-                pi = partition(low, high)
-                sort(low, pi - 1)
-                sort(pi + 1, high)
-        
-        sort(0, len(nums) - 1)
+        for i in range(0,len(nums)):
+            if i<zero:
+                nums[i]=0
+            elif i>=zero and i<zero+one:
+                nums[i]=1
+            else: nums[i]=2
+
