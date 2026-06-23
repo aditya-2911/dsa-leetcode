@@ -6,28 +6,24 @@ class Solution:
 
 
         for i in range(0, size - 2):
-
-
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
+            
             leftPtr, rightPtr = i + 1, size - 1
             while leftPtr < rightPtr:
                 currentSum = nums[leftPtr] + nums[rightPtr] + nums[i]
-                if currentSum == target:
-                    return currentSum
-
+                diff = abs(currentSum - target)
+                if diff < max_diff:
+                    max_diff=diff
+                    result= currentSum
                 
+                if currentSum == target:
+                    return result
+
                 elif currentSum < target:
-                    diff = abs(currentSum - target)
-                    if diff < max_diff:
-                        max_diff=diff
-                        result= currentSum
+                    
                     leftPtr += 1
                 else:
-                    diff = abs(currentSum - target)
-                    if diff < max_diff:
-                        max_diff = diff
-                        result = currentSum
                     rightPtr -= 1
         return result
