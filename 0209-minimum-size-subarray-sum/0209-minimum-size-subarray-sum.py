@@ -1,20 +1,31 @@
 class Solution:
-    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        sumVal=0
-        minLength=float('inf')
-        flag=False
-        low,high=0,0
+    def findMaxFrequency(self, arr):
+        maxCount = float("-inf")
+        for i in arr:
+            if i >= maxCount:
+                maxCount = i
+        return maxCount
 
-        while high<len(nums):
-            sumVal+=nums[high]
-            while sumVal>=target:
-                flag=True
-                length=high-low+1
-                minLength=min(minLength, length)
+    def characterReplacement(self, s: str, k: int) -> int:
+        freq = [0] * 26
+        low = 0
+        maxLength = float("-inf")
 
-                sumVal-=nums[low]
-                low+=1
-            high+=1
-        if flag:
-            return minLength
-        else: return 0
+        for high in range(0, len(s)):
+            index = ord(s[high]) % 65
+            freq[index] += 1
+            maxCount = self.findMaxFrequency(freq)
+            currentLength = high - low + 1
+            difference = currentLength - maxCount
+
+            while difference > k:
+                freq[ord(s[low]) % 65] -= 1
+                low += 1
+                maxCount = self.findMaxFrequency(freq)
+                currentLength = high - low + 1
+                difference = currentLength - maxCount
+
+            currentLength = high - low + 1
+            maxLength = max(maxLength, currentLength)
+
+        return maxLength
