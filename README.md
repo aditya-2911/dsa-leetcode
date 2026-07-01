@@ -51,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya-2911/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/aditya-2911/dsa-leetcode/tree/master/0709-to-lower-case) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-2911/dsa-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/aditya-2911/dsa-leetcode/tree/master/2129-capitalize-the-title) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya-2911/dsa-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
