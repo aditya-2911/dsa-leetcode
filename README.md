@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [3945-digit-frequency-score](https://github.com/aditya-2911/dsa-leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/aditya-2911/dsa-leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
