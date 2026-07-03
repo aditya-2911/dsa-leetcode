@@ -1,0 +1,16 @@
+class Solution:
+    import math
+    def queryString(self, s: str, n: int) -> bool:
+        freq=set()
+        for i in range(len(s)):
+            if s[i]=='0':
+                continue
+            num=0
+
+            for j in range(i,min(i+30, len(s))):
+                num= (num<<1)+int(s[j])
+                if 1<=num<=n:
+                    freq.add(num)
+        return len(freq)==n
+        
+
