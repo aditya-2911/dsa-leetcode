@@ -10,7 +10,7 @@ class Solution:
             num=0
 
             for j in range(i,min(i+30, len(s))):
-                num= (num<<1)+int(s[j])
+                num= (num<<1)|int(s[j])
                 if 1<=num<=n:
                     freq.add(num)
                     if len(freq)==n: return True
