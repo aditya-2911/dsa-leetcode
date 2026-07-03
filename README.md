@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3945-digit-frequency-score](https://github.com/aditya-2911/dsa-leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditya-2911/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/aditya-2911/dsa-leetcode/tree/master/0709-to-lower-case) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-2911/dsa-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/aditya-2911/dsa-leetcode/tree/master/2129-capitalize-the-title) |
 ## Stack
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/aditya-2911/dsa-leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 <!---LeetCode Topics End-->
