@@ -4,13 +4,15 @@ class Solution:
         if n > 2000:
             return False
         freq=set()
-        for i in range(len(s)):
-            if s[i]=='0':
+        b=s.encode('ascii')
+
+        for i in range(len(b)):
+            if b[i]==48:
                 continue
             num=0
 
-            for j in range(i,min(i+30, len(s))):
-                num= (num<<1)|int(s[j])
+            for j in range(i,min(i+30, len(b))):
+                num= (num<<1)| (b[j] & 1)
                 if 1<=num<=n:
                     freq.add(num)
                     if len(freq)==n: return True
