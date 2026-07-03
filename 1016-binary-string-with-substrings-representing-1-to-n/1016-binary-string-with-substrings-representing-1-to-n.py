@@ -13,6 +13,7 @@ class Solution:
                 num= (num<<1)+int(s[j])
                 if 1<=num<=n:
                     freq.add(num)
+                    if len(freq)==n: return True
         return len(freq)==n
         
 
