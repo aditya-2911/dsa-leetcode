@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditya-2911/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-2911/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/aditya-2911/dsa-leetcode/tree/master/0278-first-bad-version) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aditya-2911/dsa-leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
