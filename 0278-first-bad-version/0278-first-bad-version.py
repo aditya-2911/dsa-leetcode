@@ -5,7 +5,7 @@ class Solution:
     def firstBadVersion(self, n: int) -> int:
         left, right = 1, n
         while left <= right:
-            mid = left + (right - left) // 2
+            mid = left + ((right - left) >> 1)
             if isBadVersion(mid):
                 right=mid-1
             else:
