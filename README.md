@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aditya-2911/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-2911/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-2911/dsa-leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya-2911/dsa-leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
