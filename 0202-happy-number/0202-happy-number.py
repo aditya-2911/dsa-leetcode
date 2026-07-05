@@ -2,20 +2,14 @@ class Solution:
     def isHappy(self, n: int) -> bool:
 
         def digitSquare(num):
-            s=0
-            while num>0:
-                s+=(num%10)**2
-                num//=10
-            return s
-        
-        slow=n
-        fast=n
+            return sum(int(char) ** 2 for char in str(num))
 
-        while fast!=1:
+        slow = n
+        fast = digitSquare(n)
+
+        while fast != 1 and slow != fast:
             slow = digitSquare(slow)
             fast = digitSquare(fast)
             fast = digitSquare(fast)
 
-            if slow == fast and slow!=1:
-                return False
-        return True
+        return fast == 1
