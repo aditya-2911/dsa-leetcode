@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditya-2911/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aditya-2911/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-2911/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/aditya-2911/dsa-leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/aditya-2911/dsa-leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3945-digit-frequency-score](https://github.com/aditya-2911/dsa-leetcode/tree/master/3945-digit-frequency-score) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aditya-2911/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-2911/dsa-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
