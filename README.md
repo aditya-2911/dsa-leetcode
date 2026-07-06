@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1920-build-array-from-permutation](https://github.com/aditya-2911/dsa-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-2911/dsa-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/aditya-2911/dsa-leetcode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/aditya-2911/dsa-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
