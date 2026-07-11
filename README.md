@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-2911/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0525-contiguous-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-2911/dsa-leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/aditya-2911/dsa-leetcode/tree/master/1288-remove-covered-intervals) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aditya-2911/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0525-contiguous-array) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3945-digit-frequency-score](https://github.com/aditya-2911/dsa-leetcode/tree/master/3945-digit-frequency-score) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
