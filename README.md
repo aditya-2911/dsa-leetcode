@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-2911/dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aditya-2911/dsa-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aditya-2911/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/aditya-2911/dsa-leetcode/tree/master/0057-insert-interval) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-2911/dsa-leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aditya-2911/dsa-leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aditya-2911/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aditya-2911/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0143-reorder-list) |
