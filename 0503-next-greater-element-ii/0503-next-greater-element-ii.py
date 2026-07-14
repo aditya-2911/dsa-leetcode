@@ -6,7 +6,7 @@ class Solution:
 
         for i in range(size - 2, -1, -1):
             stack.append(nums[i])
-        print(stack)
+
 
         for i in range(size - 1, -1, -1):
             while stack and nums[i] >= stack[-1]:
