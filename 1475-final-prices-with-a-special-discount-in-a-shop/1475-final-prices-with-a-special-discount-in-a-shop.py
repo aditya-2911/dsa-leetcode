@@ -2,7 +2,6 @@ class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
         ans=[]
         stack=[]
-        # ans.append(prices[-1])
 
         for i in range(len(prices)-1,-1,-1):
             while stack and prices[i]<stack[-1]:
