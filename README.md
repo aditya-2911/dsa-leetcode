@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0525-contiguous-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-2911/dsa-leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
