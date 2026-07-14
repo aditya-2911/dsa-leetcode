@@ -1,8 +1,6 @@
 class Solution:
     import math
     def queryString(self, s: str, n: int) -> bool:
-        if n > 2000:
-            return False
         freq=set()
         for i in range(len(s)):
             if s[i]=='0':
@@ -15,3 +13,4 @@ class Solution:
                     freq.add(num)
         return len(freq)==n
         
+
