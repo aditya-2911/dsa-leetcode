@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya-2911/dsa-leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya-2911/dsa-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-2911/dsa-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-2911/dsa-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/aditya-2911/dsa-leetcode/tree/master/3895-count-digit-appearances) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-2911/dsa-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
