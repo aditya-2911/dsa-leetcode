@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya-2911/dsa-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/aditya-2911/dsa-leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aditya-2911/dsa-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/aditya-2911/dsa-leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/aditya-2911/dsa-leetcode/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditya-2911/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/aditya-2911/dsa-leetcode/tree/master/1288-remove-covered-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-2911/dsa-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-2911/dsa-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/aditya-2911/dsa-leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/aditya-2911/dsa-leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-2911/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/aditya-2911/dsa-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -223,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-2911/dsa-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
