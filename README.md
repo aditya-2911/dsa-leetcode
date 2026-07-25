@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/aditya-2911/dsa-leetcode/tree/master/1288-remove-covered-intervals) |
+| [3536-maximum-product-of-two-digits](https://github.com/aditya-2911/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya-2911/dsa-leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya-2911/dsa-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/aditya-2911/dsa-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-2911/dsa-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-2911/dsa-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
