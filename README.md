@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-2911/dsa-leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/aditya-2911/dsa-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya-2911/dsa-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/aditya-2911/dsa-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-2911/dsa-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
