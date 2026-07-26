@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/aditya-2911/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aditya-2911/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditya-2911/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-2911/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditya-2911/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/aditya-2911/dsa-leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/aditya-2911/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/aditya-2911/dsa-leetcode/tree/master/0709-to-lower-case) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
