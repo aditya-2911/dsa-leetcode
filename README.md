@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/aditya-2911/dsa-leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/0496-next-greater-element-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aditya-2911/dsa-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aditya-2911/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/aditya-2911/dsa-leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-2911/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/aditya-2911/dsa-leetcode/tree/master/0709-to-lower-case) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/aditya-2911/dsa-leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
