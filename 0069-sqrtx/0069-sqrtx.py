@@ -1,12 +1,19 @@
-import math
 class Solution:
-    def mySqrt(self, n: int) -> int:
-        e = 0.000001
-        x = n / 2
-        y = 0
-
-        while abs(x-y)>e:
-            y=n/x
-            x=(x+y)/2
+    def mySqrt(self, x: int) -> int:
+        if x==0 or x==1:
+            return x
         
-        return math.floor(x)
+        l,r=0,x//2
+
+        while l<=r:
+            mid=l+(r-l)//2
+            sq=mid*mid
+            if sq==x:
+                return mid
+            elif sq<x:
+                l=mid+1
+            else:
+                r=mid-1
+        
+        return r
+        
