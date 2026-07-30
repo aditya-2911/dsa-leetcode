@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-2911/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/aditya-2911/dsa-leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/aditya-2911/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/aditya-2911/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
