@@ -4,15 +4,16 @@ class Solution:
         m = len(matrix)
         n = len(matrix[0])
 
-        for row in matrix:
-            if row[n-1]>=target:
-                l,r=0,n-1
+        row,col=0,n-1
 
-                while l<=r:
-                    mid=l+(r-l)//2
+        while row<m and col>=0:
+            val=matrix[row][col]
 
-                    if row[mid]==target: return True
-                    elif row[mid]<target: l=mid+1
-                    else: r=mid-1
-
+            if val==target:
+                return True
+            elif val>target:
+                col-=1
+            else:
+                row+=1
+        
         return False
