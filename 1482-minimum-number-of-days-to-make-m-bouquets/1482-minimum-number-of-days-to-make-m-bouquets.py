@@ -17,6 +17,8 @@ class Solution:
                     if flower==k:
                         bouquets+=1
                         flower=0
+                        if bouquets==m:
+                            break
                 else:
                     flower=0
             
