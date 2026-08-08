@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditya-2911/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-2911/dsa-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditya-2911/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aditya-2911/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-2911/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya-2911/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-2911/dsa-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditya-2911/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/0496-next-greater-element-i) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya-2911/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/aditya-2911/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditya-2911/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
