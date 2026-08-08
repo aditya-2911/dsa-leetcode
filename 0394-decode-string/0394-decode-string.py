@@ -1,22 +1,26 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         stack=[]
-        curr=''
+        ans=''
         num=0
         for i in s:
             if i.isdigit():
                 num=num*10+int(i)
 
             elif i=='[':
-                stack.append((curr,num))
+                stack.append(num)
                 num=0
-                curr=''
             elif i==']':
-                prev,n=stack.pop()
-                curr=prev+(n*curr)
+                temp=''
+                if stack:
+                    ch=str(stack.pop())
+                while not ch.isdigit():
+                    temp=ch+temp
+                    if stack:
+                        ch=str(stack.pop())
+                stack.append(temp*int(ch))
             else:
-                curr+=i
-
-
-        return curr
+                stack.append(i)
+                
+        return ''.join(stack)
 
