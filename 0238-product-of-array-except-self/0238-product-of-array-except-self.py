@@ -9,7 +9,7 @@ class Solution:
         curr_right=1
 
         for i in range(size-1,-1,-1):
-            left[i]*=curr_right
+            left[i]=left[i]*curr_right
             curr_right*=nums[i]
-
+            
         return left
