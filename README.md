@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aditya-2911/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aditya-2911/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-2911/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya-2911/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/aditya-2911/dsa-leetcode/tree/master/0877-stone-game) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aditya-2911/dsa-leetcode/tree/master/1510-stone-game-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
