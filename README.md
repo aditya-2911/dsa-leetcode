@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya-2911/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aditya-2911/dsa-leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/aditya-2911/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-2911/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya-2911/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/aditya-2911/dsa-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aditya-2911/dsa-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
