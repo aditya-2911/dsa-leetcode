@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/aditya-2911/dsa-leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/aditya-2911/dsa-leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aditya-2911/dsa-leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-2911/dsa-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya-2911/dsa-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aditya-2911/dsa-leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0957-prison-cells-after-n-days](https://github.com/aditya-2911/dsa-leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aditya-2911/dsa-leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bracket Sequences
 |  |
