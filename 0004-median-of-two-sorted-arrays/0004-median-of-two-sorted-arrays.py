@@ -1,32 +1,30 @@
-class Solution:
+class Solution: 
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        m=len(nums1)
-        n=len(nums2)
-
-        total=m+n
-        i=j=0
-
-        prev=curr=0
-
-        for ct in range(total//2+1):
-            prev=curr
-            if i<m and j<n:
-                if nums1[i]<=nums2[j]:
-                    curr=nums1[i]
-                    i+=1
-                else:
-                    curr=nums2[j]
-                    j+=1
-                
-            elif i<m:
-                curr=nums1[i]
-                i+=1
-            else:
-                curr=nums2[j]
-                j+=1
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1
+            
+        m, n = len(nums1), len(nums2)
+        low, high = 0, m
         
-        if total&1:
-            return curr
-        else:
-            return (prev+curr)/2
+        while low <= high:
+            partitionX = (low + high) // 2
+            
+            partitionY = (m + n + 1) // 2 - partitionX
+            
+            maxLeftX = float('-inf') if partitionX == 0 else nums1[partitionX - 1]
+            minRightX = float('inf') if partitionX == m else nums1[partitionX]
+            
+            maxLeftY = float('-inf') if partitionY == 0 else nums2[partitionY - 1]
+            minRightY = float('inf') if partitionY == n else nums2[partitionY]
+            
+            if maxLeftX <= minRightY and maxLeftY <= minRightX:
+                if (m + n) % 2 == 0:
+                    return (max(maxLeftX, maxLeftY) + min(minRightX, minRightY)) / 2.0
+                else:
+                    return float(max(maxLeftX, maxLeftY))
+                    
+            elif maxLeftX > minRightY:
+                high = partitionX - 1
                 
+            else:
+                low = partitionX + 1
