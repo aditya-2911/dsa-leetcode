@@ -8,21 +8,17 @@ class Solution:
             
         L=[0]*n
         w=0
-        for s in range(m):
-            if w<n and skill[w]==station[s]:
-                L[w]=s
+        for i,s in enumerate(station):
+            if w<n and skill[w]==s:
+                L[w]=i
                 w+=1
-        R=[0]*n
+
         w=n-1
-        for s in range(m-1,-1,-1):
-            if w>=0 and skill[w]==station[s]:
-                R[w]=s
-                w-=1
-
         maxGap=0
-
-        for i in range(1,n):
-            maxGap=max(maxGap, R[i]-L[i-1])
+        for s in range(m-1,-1,-1):
+            if w>0 and skill[w]==station[s]:
+                maxGap=max(maxGap, s-L[w-1])
+                w-=1
 
         return maxGap
         
