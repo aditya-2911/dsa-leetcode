@@ -1,12 +1,14 @@
 class Solution:
     def isPalindromic(self, s: str) -> bool:
         bin_str=''
-
+        lst=[]
         for i in s:
-            bin_str+=f'{ord(i):08b}'
+            lst.append(f'{ord(i):08b}')
+        
+        bin_str=''.join(lst)
 
         l,r=0,len(bin_str)-1
-        print(bin_str)
+
         while l<r:
             if bin_str[l]!=bin_str[r]:
                 return False
