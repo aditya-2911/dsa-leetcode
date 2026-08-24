@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-2911/dsa-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aditya-2911/dsa-leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1872-stone-game-viii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/aditya-2911/dsa-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-2911/dsa-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya-2911/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya-2911/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya-2911/dsa-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aditya-2911/dsa-leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-2911/dsa-leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya-2911/dsa-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## Union-Find
 |  |
 | ------- |
@@ -439,17 +443,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aditya-2911/dsa-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya-2911/dsa-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aditya-2911/dsa-leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya-2911/dsa-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya-2911/dsa-leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1872-stone-game-viii) |
 ## Depth-First Search
 |  |
 | ------- |
