@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aditya-2911/dsa-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/aditya-2911/dsa-leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya-2911/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-2911/dsa-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-2911/dsa-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/aditya-2911/dsa-leetcode/tree/master/2129-capitalize-the-title) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya-2911/dsa-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aditya-2911/dsa-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/aditya-2911/dsa-leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
