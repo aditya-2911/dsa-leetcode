@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditya-2911/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/aditya-2911/dsa-leetcode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/aditya-2911/dsa-leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aditya-2911/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aditya-2911/dsa-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/aditya-2911/dsa-leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-2911/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aditya-2911/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
