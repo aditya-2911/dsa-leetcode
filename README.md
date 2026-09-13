@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-2911/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/aditya-2911/dsa-leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aditya-2911/dsa-leetcode/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/aditya-2911/dsa-leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aditya-2911/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aditya-2911/dsa-leetcode/tree/master/0877-stone-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/aditya-2911/dsa-leetcode/tree/master/0835-image-overlap) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aditya-2911/dsa-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
