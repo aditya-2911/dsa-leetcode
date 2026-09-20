@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-2911/dsa-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-2911/dsa-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-2911/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aditya-2911/dsa-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/aditya-2911/dsa-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
