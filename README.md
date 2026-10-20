@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/aditya-2911/dsa-leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/aditya-2911/dsa-leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/aditya-2911/dsa-leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aditya-2911/dsa-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-2911/dsa-leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/aditya-2911/dsa-leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/aditya-2911/dsa-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/aditya-2911/dsa-leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/aditya-2911/dsa-leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/aditya-2911/dsa-leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/aditya-2911/dsa-leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-2911/dsa-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/aditya-2911/dsa-leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
