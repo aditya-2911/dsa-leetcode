@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aditya-2911/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-2911/dsa-leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya-2911/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/aditya-2911/dsa-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/aditya-2911/dsa-leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya-2911/dsa-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aditya-2911/dsa-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya-2911/dsa-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aditya-2911/dsa-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya-2911/dsa-leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-2911/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/aditya-2911/dsa-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aditya-2911/dsa-leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya-2911/dsa-leetcode/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/aditya-2911/dsa-leetcode/tree/master/3310-remove-methods-from-project) |
 ## Floyd's Cycle Finding Algorithm
 |  |
