@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya-2911/dsa-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0525-contiguous-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-2911/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aditya-2911/dsa-leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya-2911/dsa-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-2911/dsa-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditya-2911/dsa-leetcode/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/aditya-2911/dsa-leetcode/tree/master/0957-prison-cells-after-n-days) |
