@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-2911/dsa-leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aditya-2911/dsa-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/aditya-2911/dsa-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/aditya-2911/dsa-leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya-2911/dsa-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/aditya-2911/dsa-leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya-2911/dsa-leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aditya-2911/dsa-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-2911/dsa-leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-2911/dsa-leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aditya-2911/dsa-leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-2911/dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/aditya-2911/dsa-leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aditya-2911/dsa-leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -608,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aditya-2911/dsa-leetcode/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/aditya-2911/dsa-leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/aditya-2911/dsa-leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aditya-2911/dsa-leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/aditya-2911/dsa-leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya-2911/dsa-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
