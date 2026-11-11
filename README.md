@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-2911/dsa-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-2911/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aditya-2911/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya-2911/dsa-leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aditya-2911/dsa-leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aditya-2911/dsa-leetcode/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-2911/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aditya-2911/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya-2911/dsa-leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-2911/dsa-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/aditya-2911/dsa-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya-2911/dsa-leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya-2911/dsa-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aditya-2911/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-2911/dsa-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/aditya-2911/dsa-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-2911/dsa-leetcode/tree/master/3498-reverse-degree-of-a-string) |
