@@ -1,10 +1,7 @@
 class Solution:
     def checkString(self, s: str) -> bool:
-        flag=False
-
-        for i in s:
-            if i=='a' and flag:
+        for i in range(len(s)-1):
+            if s[i]=='b' and s[i+1]=='a':
                 return False
-            elif i=='b':
-                flag=True
+            
         return True
